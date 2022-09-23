@@ -1,0 +1,16 @@
+.nav {
+    background-color: #2C2C2C;
+    color: #FFF;
+    padding: 30px 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_input {
+    height: 35px;
+    width: 250px;
+    border: none;
+    border-radius: 10px;
+}
